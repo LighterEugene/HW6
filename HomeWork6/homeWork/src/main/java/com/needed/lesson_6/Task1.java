@@ -1,5 +1,5 @@
 package com.needed.lesson_6;
-
+//
 public class Task1 {
     private static final org.slf4j.Logger log = org.slf4j.LoggerFactory.getLogger(Task1.class);
 
