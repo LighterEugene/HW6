@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.Collection;
 
 import static org.junit.Assert.assertArrayEquals;
-//
+////
 @RunWith(Parameterized.class)
 public class Task1Test {
     private static final Logger log = LoggerFactory.getLogger(Task1.class);
