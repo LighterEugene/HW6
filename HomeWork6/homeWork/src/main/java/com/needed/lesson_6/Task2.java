@@ -1,5 +1,5 @@
 package com.needed.lesson_6;
-
+//////
 public class Task2 {
     public static void main(String[] args) {
         final boolean result = process(new int[]{1, 1, 1, 1, 1});
